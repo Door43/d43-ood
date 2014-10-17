@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ood:home|Door43 (ood)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ood|d43-ood repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ood/archive/master.zip|d43-ood.zip]]
+
+**Recent Changes**
+{{changes>ns = ood}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ood|Ethnologue data]]
+
